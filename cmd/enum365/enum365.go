@@ -4,7 +4,7 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/mortimus.com/enum365/pkg/m365"
+	"github.com/mortimus/enum365/pkg/m365"
 )
 
 func main() {
