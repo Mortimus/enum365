@@ -1,3 +1,3 @@
-module github.com/mortimus/enum365
+module github.com/Mortimus/enum365
 
 go 1.23.4
